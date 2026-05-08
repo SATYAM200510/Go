@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Live Features
+## 🚀 Live Features!!
 
 User inputs a map of cities with roads and costs. The app finds the shortest path, cheapest path, and most stops-covered path — all using different algorithms.
 
